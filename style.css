@@ -1,0 +1,35 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+body{
+  background-color: #c7c2c2;
+  color:#c7c2c2;
+}
+
+.fw-bold-title{
+  font-family: 'Poppins', sans-serif;
+  color: black;
+  text-align: center;
+  /* text-align:center; */
+  margin-top: 250px;
+  font-size: 4em;
+  font-weight: bolder;
+}
+
+.subheading{
+  text-align: center;
+}
+
+.description{
+  text-align: center;
+  font-family: 'Poppins', sans-serif;
+  font-weight: lighter;
+  /* margin-left:500px; */
+}
+.nav{
+  color:black;
+  font-family: 'Poppins', sans-serif;
+}
+/* background-image:url('pink-background.png'); */
+/* background-repeat: no-repeat; */
