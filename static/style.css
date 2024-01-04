@@ -1,10 +1,15 @@
 html {
   height: 100%;
   width: 100%;
+  background-color: #eeeeee;
 }
-body{
-  background-color: #c7c2c2;
-  color:#c7c2c2;
+.page{
+  background-color: #eeeeee;
+
+}
+
+.navbar-custom{
+    background-color: #eeeeee;
 }
 
 .fw-bold-title{
@@ -18,14 +23,16 @@ body{
 }
 
 .subheading{
-  text-align: center;
+  text-align: left;
+  margin-left:150px;
 }
 
 .description{
-  text-align: center;
+  text-align: left;
   font-family: 'Poppins', sans-serif;
-  font-weight: lighter;
-  /* margin-left:500px; */
+  fot-weight: lighter;
+  margin-left: 150px;
+
 }
 .nav{
   color:black;
@@ -33,3 +40,7 @@ body{
 }
 /* background-image:url('pink-background.png'); */
 /* background-repeat: no-repeat; */
+
+#memoji{
+    margin-top: 150px;
+}
