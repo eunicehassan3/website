@@ -30,7 +30,7 @@ html {
 .description{
   text-align: left;
   font-family: 'Poppins', sans-serif;
-  fot-weight: lighter;
+  font-weight: lighter;
   margin-left: 150px;
 
 }
@@ -38,9 +38,43 @@ html {
   color:black;
   font-family: 'Poppins', sans-serif;
 }
-/* background-image:url('pink-background.png'); */
-/* background-repeat: no-repeat; */
+
 
 #memoji{
-    margin-top: 150px;
+    margin-top: 115px;
+}
+
+.email{
+  font-family: 'Poppins', sans-serif;
+  font-weight: lighter;
+
+}
+
+.phonenum{
+  font-family: 'Poppins', sans-serif;
+  font-weight: lighter;
+
+}
+
+.about{
+  text-align:center;
+  font-family: 'Poppins', sans-serif;
+  font-weight: lighter;
+}
+
+.row {
+  display: flex;
+}
+
+.column {
+  flex: 33.33%;
+  padding: 5px;
+}
+
+#photo-text{
+margin-left: 200px;
+}
+
+.hi{
+    margin-right: 50px;
 }
